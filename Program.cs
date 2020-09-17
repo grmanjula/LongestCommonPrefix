@@ -1,5 +1,6 @@
 ﻿using System;
 
+//Given a array of Nstrings, find the longest common prefix among all strings present in the array.
 namespace LongestCommonPrefix
 {
     class Program
